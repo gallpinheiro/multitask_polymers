@@ -7,6 +7,8 @@ This folder contains a collection of datasets from polymer literature. Each data
 - Source type (simulation or experiment)
 - Property name
 
+Note that all the datasets were processed and each contains the SMILES of the monomers and the polymer property. Some datasets include additional features about the monomers and polymers, such as monomer fraction or molecular weight. For these cases, an additional column was created to hold this information.
+
 
 | ID | Ref  | \# of Samples | Type        | Property                           |
 |---|----------|-------------------|-------------|------------------------------------|
