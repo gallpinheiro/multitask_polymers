@@ -46,7 +46,7 @@ Note that all the datasets were processed and each contains the SMILES of the mo
 | 31 | [Paper \#2](https://doi.org/10.1038/s41524-022-00906-4) | 1,076             | Simulated   | Compressibility |
 | 32 | [Paper \#2](https://doi.org/10.1038/s41524-022-00906-4) | 1,076             | Simulated   | Constant volume |
 | 33 | [Paper \#2](https://doi.org/10.1038/s41524-022-00906-4) | 1,076             | Simulated   | Constant pressure |
-| 34 | [Paper \#3](https://doi.org/10.1016/j.patter.2021.100238) | 368               | Experimental| Electron affinity |
+| 34 | [Paper \#3](https://doi.org/10.1016/j.patter.2021.100238) | 368               | Simulated| Electron affinity |
 | 35 | [Paper \#10](https://doi.org/10.1038/s41524-023-01034-3) | 210               | Experimental| Glass transition temperature |
 | 36 | [Paper \#10](https://doi.org/10.1038/s41524-023-01034-3) | 243               | Experimental| Inherent viscosity |
 | 37 | [Paper \#11](https://doi.org/10.1021/jacs.1c08181) | 204               | Experimental| 19F NMR Signal-to-noise ratio |
